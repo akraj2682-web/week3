@@ -1,0 +1,8 @@
+DataFrame (Pandas): Used to store and analyze data in table format
+Series (Pandas): Used for single column operations and results
+Data Loading: Reading CSV file using read_csv()
+Data Cleaning: Handling missing values and removing duplicates
+Feature Creation: Creating new column (Revenue = Quantity × Price)
+Aggregation: Using groupby() to summarize data
+Sorting: Using sort_values() to find top products
+Statistical Operations: Calculating sum and average
